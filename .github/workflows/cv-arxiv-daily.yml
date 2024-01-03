@@ -15,13 +15,13 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: Vincentqyw
-  GITHUB_USER_EMAIL: realcat@126.com
+  GITHUB_USER_NAME: Liaoyu520Yuanyuan 
+  GITHUB_USER_EMAIL: 310898271@qq.com 
   
   
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel 
 jobs:
-  # This workflow contains a single job called "build"
+  # This workflow contains a single job called "build" 
   build:
     name: update
     # The type of runner that the job will run on
